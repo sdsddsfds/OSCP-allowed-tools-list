@@ -2,11 +2,10 @@
 OSCP allowed tools list
 
 
-
+~~~~~~~~~~~~~~~~
+Scanning Tools
+------------------------
 Nmap
-
-
-
 
 
 ~~~~~~~~~~~~~~~~
@@ -16,5 +15,8 @@ snmpwalk
 snmp-check
 onesixtyone
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Web tools
+------------------------
 Burp
+wfuzz
